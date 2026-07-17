@@ -2,7 +2,7 @@ using DG.Tweening;
 using TMPro;
 using UnityEngine;
 
-namespace AbhishekSahu.DGTweening
+namespace DGTweenTools.AbS
 {
     /// <summary>
     /// Extension methods for easier access to TMPTextAnimator

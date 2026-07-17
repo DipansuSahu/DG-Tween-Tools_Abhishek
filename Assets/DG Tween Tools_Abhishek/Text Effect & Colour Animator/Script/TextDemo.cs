@@ -1,4 +1,4 @@
-using AbhishekSahu.DGTweening;
+using DGTweenTools.AbS;
 using DG.Tweening;
 using TMPro;
 using UnityEngine;

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
-namespace AbhishekSahu.DGTweening
+namespace DGTweenTools.AbS
 {
     public class TextColor
     {

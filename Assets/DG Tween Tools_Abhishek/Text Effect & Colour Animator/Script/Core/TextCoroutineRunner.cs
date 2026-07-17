@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace AbhishekSahu.DGTweening
+namespace DGTweenTools.AbS
 {
     /// <summary>
     /// Singleton coroutine runner for non-MonoBehaviour classes

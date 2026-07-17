@@ -2,8 +2,9 @@ using DG.Tweening;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace AbhishekSahu.DGTweening
+namespace DGTweenTools.AbS
 {
+    [AddComponentMenu("DGTweenTools/Ui Animator")]
     [RequireComponent(typeof(RectTransform))]
     public class UiAnimator : MonoBehaviour
     {

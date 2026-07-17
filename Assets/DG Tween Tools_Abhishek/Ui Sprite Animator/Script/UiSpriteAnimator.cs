@@ -3,8 +3,9 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
 
-namespace AbhishekSahu.DGTweening
+namespace DGTweenTools.AbS
 {
+    [AddComponentMenu("DGTweenTools/Ui Sprite Animator")]
     public class UiSpriteAnimator : MonoBehaviour
     {
         #region Variables Fields
